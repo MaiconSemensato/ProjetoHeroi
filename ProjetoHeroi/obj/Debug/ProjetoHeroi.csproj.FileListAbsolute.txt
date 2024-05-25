@@ -1,0 +1,7 @@
+C:\Users\Maicon\source\repos\ProjetoHeroi\obj\Debug\ProjetoHeroi.csproj.AssemblyReference.cache
+C:\Users\Maicon\source\repos\ProjetoHeroi\obj\Debug\ProjetoHeroi.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\source\repos\ProjetoHeroi\bin\Debug\ProjetoHeroi.exe.config
+C:\Users\Maicon\source\repos\ProjetoHeroi\bin\Debug\ProjetoHeroi.exe
+C:\Users\Maicon\source\repos\ProjetoHeroi\bin\Debug\ProjetoHeroi.pdb
+C:\Users\Maicon\source\repos\ProjetoHeroi\obj\Debug\ProjetoHeroi.exe
+C:\Users\Maicon\source\repos\ProjetoHeroi\obj\Debug\ProjetoHeroi.pdb
